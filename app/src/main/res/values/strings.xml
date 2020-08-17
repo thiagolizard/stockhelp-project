@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Stock Help</string>
+    <string name="avisoLogin">Usuário ou senha inválidos!</string>
+    <string name="opcao">Selecione o tipo</string>
+    <string name="mensagemQRcode">Código inválido!</string>
+    <string name="mensagem">Registrado com sucesso!</string>
+    <string name="mensagemErro">Erro!</string>
+
+    <string-array name="array_joias">
+        <item>Bronze</item>
+        <item>Prata</item>
+        <item>Ouro</item>
+        <item>Platina</item>
+        <item>Diamante</item>
+        <item>Esmeralda</item>
+    </string-array>
+
+    <string-array name="array_item">
+        <item>Brinco</item>
+        <item>Corrente</item>
+        <item>Colar</item>
+        <item>Relógio</item>
+        <item>Pulseira</item>
+        <item>Anel</item>
+    </string-array>
+
+    <string-array name="array_marca">
+        <item>Chopard</item>
+        <item>Mikimoto</item>
+        <item>Bvlgari</item>
+        <item>Piaget</item>
+        <item>Graff</item>
+        <item>Tiffany Co.</item>
+        <item>Cartier</item>
+        <item>Harry Winston</item>
+    </string-array>
+</resources>
